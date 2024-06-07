@@ -50,10 +50,11 @@ Implementasi fitur pengendalian jarak jauh melalui aplikasi seluler atau web dap
 
 ## lAMPIRAN 
 
+### Kondisi dingin
 ![photo_6271358791916305427_y](https://github.com/Kuuhaku456/UAS_Microcontrollers/blob/main/foto_kondisi_dingin.jpg)
-
+### Kondisi normal
 ![photo_6271358791916305428_y](https://github.com/Kuuhaku456/UAS_Microcontrollers/blob/main/foto_kondisi_normal.jpg)
-
+### Kondisi panas
 ![photo_6271358791916305426_y](https://github.com/Kuuhaku456/UAS_Microcontrollers/blob/main/foto_kondisi_panas.jpg)
 
 
